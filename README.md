@@ -14,6 +14,7 @@ This project is an AI-powered interior design tool that allows users to upload a
 
 ---
 
+![Image](https://github.com/user-attachments/assets/20fad8c2-6ba6-4b54-809e-55c4775bc546)
 
 ## 🚀 Getting Started
 
