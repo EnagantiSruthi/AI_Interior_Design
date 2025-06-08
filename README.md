@@ -17,8 +17,9 @@ This project is an AI-powered interior design tool that allows users to upload a
 ![Image](https://github.com/user-attachments/assets/20fad8c2-6ba6-4b54-809e-55c4775bc546)
 ![Image](https://github.com/user-attachments/assets/778678e7-35cd-4111-a801-75ef617a1954)
 
-![Image](https://github.com/user-attachments/assets/72582fdd-3731-4755-b15b-43acb49027b9)
 ![Image](https://github.com/user-attachments/assets/baca25d4-5629-47e0-9172-5a956342f56b)
+![Image](https://github.com/user-attachments/assets/72582fdd-3731-4755-b15b-43acb49027b9)
+
 ![Image](https://github.com/user-attachments/assets/4d070140-1a24-4cec-8076-0f80cbe06c33)
 ![Image](https://github.com/user-attachments/assets/66eb0d3d-5188-4888-bd57-1d0d77d19757)
 ![Image](https://github.com/user-attachments/assets/d4101735-e87d-4783-b195-65039e740d14)
